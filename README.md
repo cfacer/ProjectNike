@@ -1,14 +1,15 @@
-################################################################################
-# ProjectNike
-# 
-# Details:
-# This project is for the creation of an access-controlled kegerator that will
-# offer a multitude of functions
-#
-# See Additional Files:
-# - Harware_Req.txt
-# 
-#
-# Project Started: March 31, 2017
-#
-################################################################################
+ProjectNike
+==============
+
+Created:
+--------------
+- March 31, 2017
+
+Project Objective
+--------------
+- Creation of an access-controlled kegerator for the office
+
+Contributors
+--------------
+- *TBD*
+
